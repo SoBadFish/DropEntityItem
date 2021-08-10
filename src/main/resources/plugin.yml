@@ -1,0 +1,6 @@
+name: DropEntityItem
+main: org.sobadfish.DropEntityItem
+version: 1.0.1
+api: 1.0.12
+load: STARTUP
+author: 某吃瓜咸鱼
